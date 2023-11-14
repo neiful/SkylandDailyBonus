@@ -315,7 +315,6 @@ def start():
 
 
 if __name__ == '__main__':
-    print('本项目源代码仓库：https://github.com/xxyz30/skyland-auto-sign(已被github官方封禁)')
     print('https://gitee.com/FancyCabbage/skyland-auto-sign')
     config_logger()
 
